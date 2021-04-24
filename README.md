@@ -6,4 +6,4 @@ You only should change variables with "#######" on your variants.
 
 Before using currency.py you need to setup your PAYEER account with API.
 
-It is only works if you have the bitcoin.
+It is only works if you have something on bitcoin wallet.
