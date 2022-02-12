@@ -1,6 +1,6 @@
 # Projects
 
-Use currency.py to look yours PAYEER WALLET balance as widgets and you also can see the rate of bitcoin.
+Use currency.py to look yours PAYEER WALLET balance as widget and you also can see the rate of bitcoin.
 
 You only should change variables with "#######" on your variants.
 
